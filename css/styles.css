@@ -813,6 +813,9 @@ a:hover.back-to-top {
 	
 	
 	/* Details 1 */
+	#details {
+	  background-color: #d1d1ff;
+	}
 	.basic-3 .image-container {
 		top: -80px;
 		left: -300px;
