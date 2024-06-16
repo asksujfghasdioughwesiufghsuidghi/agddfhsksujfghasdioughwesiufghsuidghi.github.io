@@ -514,7 +514,7 @@ input[type='checkbox'] {
 }
 
 .header .left-wrapper {
-	background: url("../images/background-dots.png") #3b363c;
+    background: url("../images/background-dots.png") #334279;
     background-blend-mode: color-burn;
 }
 
@@ -534,7 +534,7 @@ input[type='checkbox'] {
 	height: 80px;
     border-style: solid;
 	border-width: 25px 25px 0 0;
-    border-color: #555555;
+    border-color: #FFFFFF;
     opacity: 0.5;
 	content: '';
 	transform: rotate(-90deg);
@@ -550,7 +550,7 @@ input[type='checkbox'] {
 	height: 80px;
     border-style: solid;
 	border-width: 25px 25px 0 0;
-    border-color: #555555;
+    border-color: #FFFFFF;
     opacity: 0.5;
 	content: '';
 	transform: rotate(90deg);
@@ -897,7 +897,7 @@ a:hover.back-to-top {
 	.navbar .nav-item .nav-link {
 		padding-right: 0.625rem;
 		padding-left: 0.625rem;
-		color: #3b363c;
+		color: #FFFFFF;
 	}
 
 	.navbar .nav-item .nav-link:hover,
