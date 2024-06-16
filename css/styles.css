@@ -668,7 +668,7 @@ input[type='checkbox'] {
 /*     Contact     */
 /*******************/
 .form-1 .left-wrapper {
-	background: url("../images/background-dots.png") #3b363c;
+    background: url("../images/background-dots.png") #1c2060;
     background-blend-mode: color-burn;
 }
 
