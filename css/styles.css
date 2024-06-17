@@ -870,7 +870,8 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.625rem;
 		padding-bottom: 0.625rem;
-		background-color: #3b363c;
+		background-color: #1c2060;
+		color: white;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
